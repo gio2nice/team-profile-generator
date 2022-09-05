@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Team-profile-generator
 =======
 # Team-profile-generator
@@ -18,4 +18,4 @@ SO THAT I have quick access to their emails and GitHub profiles
 <img width="1211" alt="Screen Shot 2022-09-05 at 1 43 46 PM" src="https://user-images.githubusercontent.com/106710271/188510905-60cb5bad-e13e-4be9-87b5-155a6900ba09.png">
 
 ## Github Link
->>>>>>> 80dc74f9cb02f4586b87a6dc175f17626d516a67
+github: https://github.com/gio2nice/team-profile-generator
