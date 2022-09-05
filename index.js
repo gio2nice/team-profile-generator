@@ -5,7 +5,8 @@ const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern'); 
 
 const fs = require('fs'); 
-const inquirer = require('inquirer');
+// const inquirer = require('inquirer');
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 const teamArray = []; 
 
